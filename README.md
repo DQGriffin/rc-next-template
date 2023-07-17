@@ -5,7 +5,7 @@ This repo is an opinionated starting point for a web app using the RingCentral A
 1. Create an app in the RingCentral developer portal
 2. Create a .env file in the root of the directory and supply your app's credentials. See the environment variables section below
 3. Run `npm run dev`
-4. Go to the URL in your browser and behold the gratest starting point you've ever seen in your life
+4. Go to the URL in your browser and behold the geatest starting point you've ever seen in your life
 
 ## Environment variables
 ```
